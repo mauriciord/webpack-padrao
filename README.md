@@ -1,12 +1,12 @@
-# UpStarMusic
-Starter Repo for a Webpack course on Udemy
+# Webpack boilerplate
+Montei um boilerplate a partir de um curso de **Webpack** que fiz no Udemy
 
-You can download this repository by using the green `Clone or Download` button on the right hand side of this page.  This will present you with the option to either clone the repository using Git, or to download it as a zip file.
+Há a possibilidade tando de _deploy_ estático, quanto _deploy_ em um servidor NodeJS
 
-If you want to download it using git, copy paste the link that is presented to you, then run the following at your terminal:
+O projeto usando ReactJS é irrelevante, deve-se considerar apenas os pacotes com Webpack
 
 ```
-git clone https://github.com/StephenGrider/WebpackProject.git
-cd WebpackProject
+git clone https://github.com/mauriciord/webpack-padrao.git
+cd webpack-padrao
 npm install
 ```
